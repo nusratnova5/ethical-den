@@ -1,0 +1,36 @@
+$yellow:rgba(210, 241, 83, 1);
+$brown:rgba(20, 18, 18, 1);
+$light-gray:rgba(217, 217, 217, 1);
+$charcoal-gray: rgba(70, 70, 70, 1);
+$dark-gray: rgba(35, 37, 38, 1);
+$soft-gray: rgba(217, 217, 217, 0.8);
+$dark-chocolate: rgba(37, 34, 34, 1);
+
+
+.btn-yellow{
+    background-color: $yellow;
+}
+.bg-brown{
+    background-color: $brown;
+}
+.bg-dark-chocolate{
+    color: $dark-chocolate;
+}
+.bg-dark-gray{
+    background-color: $dark-gray;
+}
+.text-light-gray{
+    color: $light-gray;
+}
+.text-soft-gray{
+    color: $soft-gray;
+}
+.charcoal-gray{
+    color: $charcoal-gray;
+}
+.text-charcoal-gray{
+    color: $charcoal-gray;
+}
+.bg-charcoal-gray{
+    background-color: $charcoal-gray;
+}
