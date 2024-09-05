@@ -5,7 +5,7 @@ import img2 from '../../assets/Images/how-we-help/img2.png'
 
 const HowWeHelp = () => {
     return (
-        <div className='grid grid-cols-1 lg:grid-cols-2 gap-5 my-16' >
+        <div className='grid grid-cols-1 lg:grid-cols-2 gap-5 my-16 mx-32' >
             <div>
                 <button className='bg-dark-gray text-white btn btn-sm rounded-full border-none px-5 mb-5'>About us</button>
                 <h1 className='text-5xl font-bold text-white mb-8'>Who we are</h1>

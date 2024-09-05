@@ -5,7 +5,7 @@ import frame3 from '../../../assets/Images/cards/Group.png'
 
 const Cards = () => {
     return (
-        <div className='grid lg:grid-cols-3 grid-cols-1 gap-5'>
+        <div className='grid lg:grid-cols-3 grid-cols-1 gap-5 mx-32'>
             <div className='bg-brown rounded-lg border border-charcoal-gray p-8 flex flex-col justify-center items-center'>
                 <img src={frame1} className='p-5'/>
                 <h1 className='text-white text-2xl font-bold mb-3'>Self-Expression</h1>

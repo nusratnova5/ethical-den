@@ -5,7 +5,7 @@ import { IoIosArrowRoundForward } from 'react-icons/io';
 
 const WhoWeAre = () => {
     return (
-        <div className='grid grid-cols-1 lg:grid-cols-2 my-16' >
+        <div className='grid grid-cols-1 lg:grid-cols-2 my-16 mx-32' >
             <div className='flex items-center gap-5'>
                 <img src={img1}/>
                 <img src={img2} className='h-64'/>

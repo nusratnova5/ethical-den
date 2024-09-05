@@ -1,13 +1,16 @@
 $yellow:rgba(210, 241, 83, 1);
 $brown:rgba(20, 18, 18, 1);
 $light-gray:rgba(217, 217, 217, 1);
-$charcoal-gray: rgba(70, 70, 70, 1);
+$charcoal-gray: rgba(20, 18, 18, 1);
 $dark-gray: rgba(35, 37, 38, 1);
 $soft-gray: rgba(217, 217, 217, 0.8);
 $dark-chocolate: rgba(37, 34, 34, 1);
 
 
 .btn-yellow{
+    background-color: $yellow;
+}
+.bg-yellow{
     background-color: $yellow;
 }
 .bg-brown{
